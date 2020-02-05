@@ -34,4 +34,4 @@ Kafka 2.4.0. Release -
 3.Improvements in TopologyTestDriver test input and output usability.
 
 
-Exercise 3. 	AlphGo Movie --  YES , Nice Movie. 
+Exercise 3. 	AlphaGo Movie --  YES , Nice Movie. 
