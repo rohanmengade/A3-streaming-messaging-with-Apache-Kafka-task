@@ -17,7 +17,7 @@ What is new / different about Kafka Streams ? Write to paragraphs.
 
 
 Kafka surpasses conventional message brokers by providing the scale of data management capabilities required by that growing flow of information.
-With Apache Kafka, every organization can enable its IT ecosystem to have its growth. Also, respond to increasingly complex consumer demands. 
+With Apache Kafka, every organization can enable its IT ecosystem to have its growth. Also, they respond to increasingly complex consumer demands. 
 
 Kafka is used for building real-time streaming data pipelines that reliably get data between systems or applications.
 It is used to build real-time streaming applications that transform or react to the streams of data.
