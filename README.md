@@ -15,7 +15,7 @@ Exercise 2.
 Read the entire Documentation of Apache Kafka.
 What is new / different about Kafka Streams ? Write to paragraphs.
 
-In recent years, the demands on the businesses have evolved significantly due to the great expansion of the volume and velocity of incoming data. 
+
 Kafka surpasses conventional message brokers by providing the scale of data management capabilities required by that growing flow of information.
 With Apache Kafka, every organization can enable its IT ecosystem to have its growth. Also, respond to increasingly complex consumer demands. 
 
@@ -34,5 +34,4 @@ Kafka 2.4.0. Release -
 3.Improvements in TopologyTestDriver test input and output usability.
 
 
-Exercise 3. 	
-“YES” , Nice Movie. 
+Exercise 3. 	AlphGo Movie --  YES , Nice Movie. 
