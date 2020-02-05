@@ -15,15 +15,19 @@ Exercise 2.
 Read the entire Documentation of Apache Kafka.
 What is new / different about Kafka Streams ? Write to paragraphs.
 
-Kafka is used for building real-time streaming data pipelines that reliably get data between systems or applications. 
+In recent years, the demands on the businesses have evolved significantly due to the great expansion of the volume and velocity of incoming data. 
+Kafka surpasses conventional message brokers by providing the scale of data management capabilities required by that growing flow of information.
+With Apache Kafka, every organization can enable its IT ecosystem to have its growth. Also, respond to increasingly complex consumer demands. 
+
+Kafka is used for building real-time streaming data pipelines that reliably get data between systems or applications.
 It is used to build real-time streaming applications that transform or react to the streams of data.
-    
+   
 Kafka Streams is a library for building streaming applications. 
 It is the specific application that transform input Kafka topics into output Kafka topics. It is distributed and fault tolerant. 
 The new feature in Apache Kafka v0.10 is Kafka’s Streams API. 
 The Streams API is available as a Java library that is part of the official Kafka project. It is the easy to write critical, real-time applications and microservices with all the benefits of Kafka’s server-side cluster technology. 
 
-What’s New in Kafka Streams 
+Latest update in Kafka Streams 
 Kafka 2.4.0. Release -
 1.Supports non-key joining in KTable.
 2.Allows to define custom processor names with KStreams DSL.
